@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*{
+  padding:10px;
+  margin:0px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#studentForm{
+  padding: 20px;
+}
+
+::placeholder{
+  color: white;
+}
+
+hr{
+  height: 0px;
+  padding: 0px;
+}
+
+.inputField{
+  padding: 10px;
+  height: 25px;
+  width: 37%;
+  border-radius:4px;
+  outline: none;
+  border: solid 1px lightseagreen;
+  background: lightseagreen;
+}
+
+#submit{
+  height: 40px;
+  text-align: center;
+  background: white;
+  border:solid 1px white;
+  border-radius:4px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+#SL{
+  height: 40px;
+  width: 200px;
+  text-align: center;
+  background: white;
+  border:solid 1px white;
+  border-radius:4px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
